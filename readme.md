@@ -51,6 +51,7 @@ Here are the steps to take:
 - Upload these 2 new versions of these files to your GitHub repository
 - In GitHub go to settings for your repository
 - Under GitHub Pages choose the **docs folder** for the source
+
 ![docs](images/2017/01/choose_docsfolder.png)
 
 - Your web page for the play will be live!
