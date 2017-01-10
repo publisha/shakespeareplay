@@ -38,7 +38,7 @@ Here are the steps to take:
 
 ![Turn off Generate CSS in the Export Options](images/2017/01/noCSS_inExportHTML.png)
 
-- You need only to make one change to the settings: do not include a stylesheet
+- You need only to make one change to the settings: **Turn off Generate CSS**
 - Locate the file just exported (it will be in your downloads folder)
 - Open this file in the text editor that you chose
 - Copy all of the lines inside the `<body>` tag (don't copy the `<body>` tags themselves, only what is inside.)
@@ -52,3 +52,5 @@ Here are the steps to take:
 - In GitHub go to settings for your repository
 - Under GitHub Pages choose Master for the source
 - Your web page for the play will be live!
+
+**Please note: **this will be demonstrated in class and there will be a screencast available 
