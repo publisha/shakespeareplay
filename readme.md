@@ -1,4 +1,4 @@
-# Your Repository for your Shakespeare Play Web page
+# The Repository for your Shakespeare Play Web page
 ## What to do?
 
 Now that you are seeing this go to the green button (Clone or Download)
@@ -28,14 +28,14 @@ Here are the steps to take:
 1. You need only to make one change to the settings: do not include a stylesheet
 2. Locate the file just exported (it will be in your downloads folder)
 3. Open this file in the text editor that you chose
-4. Copy all of the lines inside the /<body/> tag (don't copy the /<body/> tags themselves, only what is inside.)
+4. Copy all of the lines inside the `<body>` tag (don't copy the `<body>` tags themselves, only what is inside.)
 5. Open the _index.xhtml_ file (that you have from your repository) with the text editor
-6. Paste into this file within the /<body/> tags as per the instructions in that file.
+6. Paste into this file within the `<body>` tags as per the instructions in that file.
 7. Now edit the _style.css_ file to style each of the elements in the play
 8. Review in a web browser
 9. Validate the XHTML file here: https://validator.w3.org
 10. Validate the CSS file here: https://jigsaw.w3.org/css-validator/
-11. Upload the 2 files to your GitHub repository
+11. Upload these 2 new versions of these files to your GitHub repository
 12. In GitHub go to settings for your repository
 13. Under GitHub Pages choose Master for the source
 14. Your web page for the play will be live!
