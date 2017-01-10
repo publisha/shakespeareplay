@@ -41,9 +41,9 @@ Here are the steps to take:
 - You need only to make one change to the settings: **Turn off Generate CSS**
 - Locate the file just exported (it will be in your downloads folder)
 - Open this file in the text editor that you chose
-- Copy all of the lines inside the `<body>` tag (don't copy the `<body>` tags themselves, only what is inside.)
+- Copy all of the lines including the `<body>` opening and closing tag.
 - Open the _index.xhtml_ file (that you have from your repository) with the text editor
-- Paste into this file within the `<body>` tags as per the instructions in that file.
+- Paste into this file to overwrite the `<body>` tag as per the instructions in that file.
 - Now edit the _style.css_ file to style each of the elements in the play
 - Review in a web browser
 - Validate the XHTML file here: https://validator.w3.org
@@ -53,4 +53,4 @@ Here are the steps to take:
 - Under GitHub Pages choose Master for the source
 - Your web page for the play will be live!
 
-**Please note: **this will be demonstrated in class and there will be a screencast available 
+**Please note: **this will be demonstrated in class and there will be a screencast available
