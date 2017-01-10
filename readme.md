@@ -48,6 +48,8 @@ Here are the steps to take:
 - Review in a web browser
 - Validate the XHTML file here: https://validator.w3.org
 - Validate the CSS file here: https://jigsaw.w3.org/css-validator/
+
+When you are happy with the look of this web page then you can:
 - Upload these 2 new versions of these files to your GitHub repository
 - In GitHub go to settings for your repository
 - Under GitHub Pages choose the **docs folder** for the source
