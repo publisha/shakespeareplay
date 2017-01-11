@@ -8,9 +8,16 @@ body {
 /*You may have more if you added styles in InDesign*/
 /*You need to add the style attributes between the curly brackets*/
 
-.cover img {
+section.cover {
+text-align:center;
+width:70%;
+margin: 20px auto;
+}
+
+img.coverimage {
 /* you will need a width attribute in here */
-  
+max-width:40%;
+padding:20px auto;
 }
 
 .act {
