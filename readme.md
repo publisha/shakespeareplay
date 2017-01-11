@@ -22,8 +22,8 @@ You can download and install Atom (free) on your logged-in MAC in the Tonge IT s
 When you download this repository, you will find a variety of files, but the 2 important ones are inside the **docs** folder:
 
 - index.xhtml - this will become the home page for your play. This page will have the cover image.
-- play.xhtml - this is where the text of the play will be. linked from the home page above.
-- style.css -  this is where you define the styles for the elements in the play
+- play.xhtml - this is where the text of the play will be. Linked from the home page above.
+- styles.css -  this is where you define the styles for the elements in the play
 
 You can also have a look at the sample scene inside the **sampleScene** folder
 
@@ -56,7 +56,7 @@ Here are the steps to take:
 #### The home page cover
 - You now need the cover image from the book.
 - You can open the PDF of the cover in Photoshop and crop down to the front of the cover. In other words, remove the back and spine.
-- The cover image needs to be 1400 pixels wide, becaseu we need this later for the eBook.
+- The cover image needs to be 1400 pixels wide, because we need this later for the eBook.
 - save this image as a JPEG in the **images** folder within the **docs** folder in your repository that you downloaded from GitHub.
 - Now edit the index.xhtml file and put the file name of the image where instructed in the markup. Also edit the ALT tag text.
 - When you view this index.xhtml file the image will be very large, so you must edit the styles.css file to change the width of the image.
@@ -75,4 +75,4 @@ When you are happy with the look of these web pages then you can:
 - Your web page for the play will be live!
 - When you have finished and are ready then post the URL of your site to the moodle assignment location.
 
-**Please note: **this will be demonstrated in class and there will be a screencast available
+**Please note: **all of this will be demonstrated in class and there will also be a screencast available
