@@ -4,9 +4,9 @@
 Before you do anything with your new GitHub account do this:
 
 - Go to your account settings and put in your full name
-- Add an picture or avatar of yourself
+- Add a picture or avatar of yourself
 
-Now that you are seeing this go to the green button (Clone or Download)
+On the home page for your repository locate the green button (Clone or Download)
 
 Click on this green button and select _Clone_. Choose a location for your files. All of the files in the repository will now be available for you to edit and use.
 
@@ -57,5 +57,6 @@ When you are happy with the look of this web page then you can:
 ![docs](images/2017/01/choose_docsfolder.png)
 
 - Your web page for the play will be live!
+- When you have finished and are ready then post the URL of your page to the moodle assignment location.
 
 **Please note: **this will be demonstrated in class and there will be a screencast available
