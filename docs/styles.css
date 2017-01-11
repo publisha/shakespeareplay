@@ -8,6 +8,11 @@ body {
 /*You may have more if you added styles in InDesign*/
 /*You need to add the style attributes between the curly brackets*/
 
+.cover img {
+/* you will need a width attribute in here */
+  
+}
+
 .act {
 
 }
