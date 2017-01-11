@@ -9,7 +9,7 @@ Before you do anything with your new GitHub account do this:
 
 On the home page for your repository locate the green button (Clone or Download)
 
-Click on this green button and select _Download ZIP_. The ZIP file will go into your downloads folder. It may unzip into a folder, but whatever, you must transfer this folder from the downloads to your documents folder or (better still) in your Google drive.
+Click on this green button and select _Download ZIP_. The ZIP file will go into your downloads folder. It may unzip straighaway into a folder, but whatever, you must transfer this folder from the downloads to your documents folder or (better still) in your Google drive.
 
 ![Download ZIP from GitHub](images/2017/01/downloadfromGITHUB.png)
 
