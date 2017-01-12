@@ -1,7 +1,6 @@
 # The Repository for your Shakespeare Play Web page
-Contents:
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
+> **Contents**
+><!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 - [What to do?](#what-to-do)
 	- [What's inside the repository?](#whats-inside-the-repository)
 - [Ok, so what do I do now?](#ok-so-what-do-i-do-now)
@@ -10,6 +9,7 @@ Contents:
 	- [Making the web site work](#making-the-web-site-work)
 
 <!-- /TOC -->
+
 ## What to do?
 
 Before you do anything with your new GitHub account do this:
@@ -56,9 +56,9 @@ Here are the steps to take:
 
 - You need only to make one change to the settings: **Turn off Generate CSS**
 - Locate the file just exported (it will be in your downloads folder)
-- Open this file in the text editor that you chose
+- Open this file in the text editor that you chose (we suggest **Atom**)
 - Copy all of the lines including the `<body>` opening and closing tag.
-- Open the _play.xhtml_ file that is inside the docs folder (that you have from your repository) with the text editor
+- Open the _play.xhtml_ file that is inside the docs folder (that you have from your repository) with **Atom**
 - Paste into this file and overwrite the `<body>` tag as per the instructions in that file.
 - Now edit the _style.css_ file (again inside the docs folder) to style each of the elements in the play
 - Review in a web browser
