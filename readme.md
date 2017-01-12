@@ -1,22 +1,34 @@
 # The Repository for your Shakespeare Play Web page
+Contents:
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [What to do?](#what-to-do)
+	- [What's inside the repository?](#whats-inside-the-repository)
+- [Ok, so what do I do now?](#ok-so-what-do-i-do-now)
+	- [The Play](#the-play)
+	- [The home page cover](#the-home-page-cover)
+	- [Making the web site work](#making-the-web-site-work)
+
+<!-- /TOC -->
 ## What to do?
 
 Before you do anything with your new GitHub account do this:
 
 - Go to your account settings and put in your full name
 - Add a picture or avatar of yourself
-- you should rename your repository, although you may need to use a unique name in case someone else has already got that name (there are a lot of Macbeths!).
+- Go to settings and change the name of your repo (you can use the name of your play, but this may conflict with others, so include your publisher or surname as well example: _blades-macbeth_)
+- Open the GitHub Desktop APP, that you have previously downloaded, and click the + sign top left. Now select _clone_ and select the repo that you have just renamed on GitHub (it should be there if you signed-in).
 
-On the home page for your repository locate the green button (Clone or Download)
+![Clone this Repo](images/2017/01/clone.png)
 
-Click on this green button and select _Download ZIP_. The ZIP file will go into your downloads folder. It may unzip straighaway into a folder, but whatever, you must transfer this folder from the downloads to your documents folder or (better still) in your Google drive.
+- You will be asked where to put it…. your Google drive is best! Stay in the GitHub desktop app:
+- In the GitHub desktop right-click over the repo name in the left sidebar and select ‘Open in Atom’
 
-![Download ZIP from GitHub](images/2017/01/downloadfromGITHUB.png)
+![Opn in Atom](images/2017/01/openinatom.png)
 
-### Editing the files
-You can use a variety of editors, Textwrangler if you wish, but the one that we recommend is _Atom_. This can be found here: https://atom.io
+- You should see something like this:
 
-You can download and install Atom (free) on your logged-in MAC in the Tonge IT suite and this will be your own copy when you are logged in _to that MAC_. If you move to another MAC then you need to install again. Within Atom, you can install various _packages_ and _themes_. You can install Atom on your own MAC.
+![Atom editor](images/2017/01/atom.png)
 
 ### What's inside the repository?
 When you download this repository, you will find a variety of files, but the 2 important ones are inside the **docs** folder:
@@ -27,7 +39,7 @@ When you download this repository, you will find a variety of files, but the 2 i
 
 You can also have a look at the sample scene inside the **sampleScene** folder
 
-### Ok, so what do I do now?
+## Ok, so what do I do now?
 Here are the steps to take:
 
 - Open InDesign and find your final version of the play (**only the play - not the Introduction**)
@@ -40,7 +52,7 @@ Here are the steps to take:
 
 ![Turn off Generate CSS in the Export Options](images/2017/01/noCSS_inExportHTML.png)
 
-#### The Play
+### The Play
 
 - You need only to make one change to the settings: **Turn off Generate CSS**
 - Locate the file just exported (it will be in your downloads folder)
@@ -53,7 +65,7 @@ Here are the steps to take:
 - Validate the XHTML file here: https://validator.w3.org
 - Validate the CSS file here: https://jigsaw.w3.org/css-validator/
 
-#### The home page cover
+### The home page cover
 - You now need the cover image from the book.
 - You can open the PDF of the cover in Photoshop and crop down to the front of the cover. In other words, remove the back and spine.
 - The cover image needs to be 1400 pixels wide, because we need this later for the eBook.
@@ -63,8 +75,8 @@ Here are the steps to take:
 - when viewed in a browser, this image will be a link to the play.
 - check that these work.
 
-#### Making the web site work
-When you are happy with the look of these web pages then you can:
+### Making the web site work
+**When you are happy** with the look of these web pages then you can:
 - Upload these new versions of these files to your GitHub repository
 - also upload the image into the images folder
 - In GitHub go to settings for your repository
