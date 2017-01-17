@@ -1,0 +1,72 @@
+/*This CSS file is to be used when converting a markdown file with Pandoc.*/
+
+/*Note: you need to add a section tag inside the body*/
+
+  body {
+  font-family: "Gill Sans", Helvetica, sans-serif;
+  font-size: 100%;
+  margin: 12px 20%;
+  }
+
+  code{
+  white-space: pre;
+  }
+
+  section {
+  border:1px solid silver;
+  padding:0 12px;
+  }
+  p {
+  margin:0 20px 8px 20px;
+  font-size:.9em;
+  }
+  figure {
+  margin:12px 15%;
+  padding:2px auto;
+  width: 70%;
+  text-align:center;
+  }
+
+  blockquote {
+ color:gray;
+  }
+
+
+
+  img {
+  padding:20px auto;
+  border:1px solid silver;
+  margin:6px auto;
+  max-width:75%;
+  }
+
+  figcaption {
+  text-align:center;
+  font-size:.7em;
+  font-style: italic;
+  }
+
+  ul {
+  font-size: .8em;
+  }
+
+  h2 {
+  color: red;
+  border-bottom:3px solid #b08d8d;margin-right:50px;
+  }
+
+  h3 {
+  color:blue;
+  border-bottom:3px solid silver;
+  margin-right:50px;
+  }
+
+  h1 {
+/*   max-width:90%; */
+  color: white;
+  background-color: #797797;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 2em;
+  padding:6px 20px;
+  margin:0 -12px;
+  }

@@ -26,7 +26,9 @@ Before you do anything with your new GitHub account do this:
 You don't need GitHub.com for the moment, apart from reading this text, but you will need to recall your username and password during the next steps.
 
 ### Your digital tools
-You will need a text editor that can show and preview web HTML. We now want you to download and install _Atom_. You can find this [free open source editor here][b810fa64].
+You will need a text editor that can show and preview web HTML. We now want you to download and install _Atom_. You can find this [free open source editor here][9ef5b049]
+
+  [9ef5b049]: https://atom.io "grab Atom"
 
 ![Download Atom](images/2017/01/downloadAtom.png)
 
@@ -54,11 +56,13 @@ Atom is open source, so this means there are lots of packages that can be added 
 
 > Then in the terminal window copy and paste this:
 
-> git config --global credential.helper osxkeychain
+> `git config --global credential.helper osxkeychain`
 
 > You should now be able to _push_ your updates direct to GitHub and see the results on your web site.
 
-The MACs have installed an application called _GitHub Desktop_. Find this in the launchpad. If you want to install this on your own computer, it is free and [comes from here][28180b16].
+The MACs have installed an application called _GitHub Desktop_. Find this in the launchpad. If you want to install this on your own computer, it is free and [comes from here][c6de3c27]
+
+  [c6de3c27]: https://desktop.github.com "grab GithUb Desktop"
 
 - Open the GitHub Desktop APP
 - It will show a tutorial that you can come back to if you wish.
