@@ -13,6 +13,7 @@
 <!-- /TOC -->
 
 ## What to do?
+If you are reading this within your very own copy of this GitHub repository (because you followed the link from the **github classroom**), then read on. If you are reading this offline, then please set up the Github account before you do anything else.
 
 Before you do anything with your new GitHub account do this:
 
