@@ -14,19 +14,26 @@ width:70%;
 margin: 20px auto;
 }
 
-img.coverimage {
+img.playimage {
 /* you will need a width attribute in here */
 max-width:40%;
 padding:20px auto;
 }
 
-.act {
+img.shakespeareimage {
+/* you will need a width attribute in here */
+max-width:40%;
+padding:20px auto;
+}
+
+section.dramatis_personae {
 
 }
 
-.dramatis {
+section.play {
 
 }
+
 
 .dramatishead {
 
@@ -44,11 +51,24 @@ padding:20px auto;
 
 }
 
+._idGenObjectLayout-1 {
+
+}
+
+.sceneImage {
+
+}
+
+
+.act {
+
+}
+
 .firstscene {
 
 }
 
-.allscenes {
+.sceneonthetop {
 
 }
 
@@ -84,6 +104,6 @@ padding:20px auto;
 
 }
 
-.stage_action {
+.stageDirections_Inline {
 
 }
