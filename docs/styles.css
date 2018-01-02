@@ -4,7 +4,7 @@ body {
   /*your style rules go in here */
 }
 
-/*Here follows the class names that you may have*/
+/*Here follows the class names that you will have in your html*/
 /*You may have more if you added styles in InDesign*/
 /*You need to add the style attributes between the curly brackets*/
 
@@ -34,12 +34,35 @@ section.play {
 
 }
 
+/* herefollows the styles for paragraphs */
+
+p {
+
+}
+
+
+p.prose {
+
+}
+
+p.song {
+
+}
+
+p.character {
+
+}
+
+p.verseline {
+
+}
+
 
 .dramatishead {
 
 }
 
-.charactername {
+p.charactername {
 
 }
 
@@ -48,10 +71,6 @@ section.play {
 }
 
 .play_location {
-
-}
-
-._idGenObjectLayout-1 {
 
 }
 
@@ -84,23 +103,7 @@ section.play {
 
 }
 
-.character {
-
-}
-
-.verseline {
-
-}
-
 .scene {
-
-}
-
-.prose {
-
-}
-
-.song {
 
 }
 
