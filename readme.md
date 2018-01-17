@@ -6,8 +6,8 @@ The documentation for this work is available at [publisha.githib.io][41511828]
 
   Ok, so I know this seems complicated. Let me write out a simple list with the steps. Make this into a check list and tick them off as you go!
 
-  - [ ] Download Atom and install in **your** Applications folder
-  - [ ] Download GitHub Desktop and install in **your** Applications folder
+  - [x] Download Atom and install in **your** Applications folder
+  - [x] Download GitHub Desktop and install in **your** Applications folder
   - [ ] Create an account on [Github.com][fc57320f]
   - [ ] Grab link on Moodle (week 1) for the GitHub repository (**note:** I can't publish this on this public site)
   - [ ] Accept the Digital Shakespeare repository
