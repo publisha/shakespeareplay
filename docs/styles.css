@@ -1,0 +1,114 @@
+/* This stylesheet is where to add styles for your Shakespeare Play */
+/*We usually add something general for the body*/
+body {
+  /*your style rules go in here */
+}
+
+/*Here follows the class names that you will have in your html*/
+/*You may have more if you added styles in InDesign*/
+/*You need to add the style attributes between the curly brackets*/
+
+/* the following may not be used  */
+
+section.cover {
+text-align:center;
+width:70%;
+margin: 20px auto;
+}
+
+img.playimage {
+/* you will need a width attribute in here */
+max-width:40%;
+padding:20px auto;
+}
+
+img.shakespeareimage {
+/* you will need a width attribute in here */
+max-width:40%;
+padding:20px auto;
+}
+
+section.dramatis_personae {
+
+}
+
+section.play {
+
+}
+
+/* herefollows the styles for paragraphs */
+
+p {
+
+}
+
+
+p.prose {
+
+}
+
+p.song {
+
+}
+
+p.character {
+
+}
+
+p.verseline {
+
+}
+
+
+.dramatishead {
+
+}
+
+p.charactername {
+
+}
+
+.character_role {
+
+}
+
+.play_location {
+
+}
+
+.sceneImage {
+
+}
+
+
+.act {
+
+}
+
+.firstscene {
+
+}
+
+.sceneonthetop {
+
+}
+
+.location {
+
+}
+
+.stagedirection {
+
+}
+
+.balance-text {
+
+}
+
+.scene {
+
+}
+
+.stageDirections_Inline {
+
+}
