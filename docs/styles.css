@@ -28,87 +28,51 @@ max-width:40%;
 padding:20px auto;
 }
 
-section.dramatis_personae {
-
+body {
 }
-
+section.dramatis {
+}
 section.play {
+}
+div.sceneImage {
+}
+h1.act {
 
 }
-
-/* herefollows the styles for paragraphs */
-
-p {
-
-}
-
-
-p.prose {
-
-}
-
-p.song {
-
-}
-
 p.character {
 
 }
-
-p.verseline {
-
-}
-
-
-.dramatishead {
-
-}
-
 p.charactername {
 
 }
-
-.character_role {
-
-}
-
-.play_location {
+h1.dramatishead {
 
 }
-
-.sceneImage {
-
-}
-
-
-.act {
+h2.firstscene {
 
 }
-
-.firstscene {
-
-}
-
-.sceneonthetop {
+h2.location {
 
 }
-
-.location {
-
-}
-
-.stagedirection {
+p.play_location {
 
 }
-
-.balance-text {
-
-}
-
-.scene {
+p.prose {
 
 }
+h2.scene {
 
-.stageDirections_Inline {
+}
+p.song {
 
+}
+h2.stagedirection {
+
+}
+p.verseline {
+
+}
+span.character_role {
+}
+span.stage_directions_inline {
 }
