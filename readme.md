@@ -7,15 +7,10 @@ The documentation for this work is available at [publisha.githib.io][41511828]
   Ok, so I know this seems complicated. Let me write out a simple list with the steps. Make this into a check list and tick them off as you go!
 
   - [ ] Download Atom and install in **your** Applications folder
-  - [ ] Download GitHub Desktop and install in **your** Applications folder
   - [ ] Create an account on [Github.com][fc57320f]
-  - [ ] Grab link on Moodle (week 1) for the GitHub repository (**note:** I can't publish this on this public site)
-  - [ ] Accept the Digital Shakespeare repository
-  - [ ] Run GitHub Desktop and login with your GitHub credentials
+  - [ ] Grab link on Moodle (week 1) for the GitHub template (**note:** I can't publish this on this public site)
   - [ ] Clone the Publisha repository that you see in your account
-  - [ ] Choose a location (use Google Drive please)
-  - [ ] In GitHub Desktop, find the repository> open in Atom linked
-  - [ ] Add 2 packages to atom
+  - [ ] Choose a location (do NOT use Google Drive please - better Adobe Creative Cloud)
   - [ ] Read the helper document about getting HTML from InDesign
   - [ ] Add the files into the local version of the repository and edit the HTML and CSS etc
   - [ ] Check that the site works (home page is the cover image with link to the play)
