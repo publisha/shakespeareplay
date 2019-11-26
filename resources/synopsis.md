@@ -1,6 +1,5 @@
 # Complete list of Shakespeare Plays with short summary Chronologically
 
-
 ## Henry VI part 2
 
 - First Performed: 1590-91
