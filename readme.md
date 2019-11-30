@@ -9,8 +9,6 @@ The documentation for this work is available at [publisha.githib.io][41511828]
   - [ ] Download Atom and install in **your** Applications folder
   - [ ] Create an account on [Github.com][fc57320f]
   - [ ] Grab link on Moodle (week 1) for the GitHub template (**note:** I can't publish this on this public site)
-  - [ ] Clone the Publisha repository that you see in your account
-  - [ ] Choose a location (do NOT use Google Drive please - better Adobe Creative Cloud)
   - [ ] Read the helper document about getting HTML from InDesign
   - [ ] Add the files into the local version of the repository and edit the HTML and CSS etc
   - [ ] Check that the site works (home page is the cover image with link to the play)

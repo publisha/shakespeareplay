@@ -28,6 +28,8 @@ max-width:40%;
 padding:20px auto;
 }
 
+/* If you ahe created any new stlyes in InDesign and used export tags then you need to add them here */
+
 body {
 }
 section.dramatis {
