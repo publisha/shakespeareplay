@@ -1,5 +1,11 @@
 /* This stylesheet is where to add styles for your Shakespeare Play */
 /*We usually add something general for the body*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   /*your style rules go in here */
 }
@@ -11,21 +17,21 @@ body {
 /* the following may not be used  */
 
 section.cover {
-text-align:center;
-width:70%;
-margin: 20px auto;
+  text-align: center;
+  width: 70%;
+  margin: 20px auto;
 }
 
 img.playimage {
-/* you will need a width attribute in here */
-max-width:40%;
-padding:20px auto;
+  /* you will need a width attribute in here */
+  max-width: 40%;
+  padding: 20px auto;
 }
 
 img.shakespeareimage {
-/* you will need a width attribute in here */
-max-width:40%;
-padding:20px auto;
+  /* you will need a width attribute in here */
+  max-width: 40%;
+  padding: 20px auto;
 }
 
 /* If you ahe created any new stlyes in InDesign and used export tags then you need to add them here */
@@ -39,40 +45,28 @@ section.play {
 div.sceneImage {
 }
 h1.act {
-
 }
 p.character {
-
 }
 p.charactername {
-
 }
 h1.dramatishead {
-
 }
 h2.firstscene {
-
 }
 h2.location {
-
 }
 p.play_location {
-
 }
 p.prose {
-
 }
 h2.scene {
-
 }
 p.song {
-
 }
 h2.stagedirection {
-
 }
 p.verseline {
-
 }
 span.character_role {
 }
