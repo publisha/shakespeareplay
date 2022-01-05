@@ -15,7 +15,7 @@ body {
 /*You may have more if you added styles in InDesign*/
 /*You need to add the style attributes between the curly brackets*/
 
-/* the following may not be used  */
+/* the following may not be used but it doesn't matter if they are listed here  */
 
 section.cover {
   text-align: center;
@@ -72,4 +72,7 @@ p.verseline {
 span.character_role {
 }
 span.stage_directions_inline {
+}
+
+span.character_beforespeech {
 }
