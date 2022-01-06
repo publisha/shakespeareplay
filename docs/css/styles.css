@@ -11,6 +11,10 @@ body {
   /*your style rules go in here */
 }
 
+section {
+  border: none;
+}
+
 /*Here follows the class names that you will have in your html*/
 /*You may have more if you added styles in InDesign*/
 /*You need to add the style attributes between the curly brackets*/
@@ -37,8 +41,6 @@ img.shakespeareimage {
 
 /* If you ahe created any new stlyes in InDesign and used export tags then you need to add them here */
 
-body {
-}
 section.dramatis {
 }
 section.play {
