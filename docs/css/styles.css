@@ -12,7 +12,7 @@ body {
 }
 
 section {
-  border: none;
+  border: 0;
 }
 
 /*Here follows the class names that you will have in your html*/
@@ -39,7 +39,7 @@ img.shakespeareimage {
   padding: 20px auto;
 }
 
-/* If you ahe created any new stlyes in InDesign and used export tags then you need to add them here */
+/* If you have created any new stlyes in InDesign and used export tags then you need to add them here */
 
 section.dramatis {
 }
